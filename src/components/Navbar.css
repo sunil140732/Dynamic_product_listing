@@ -1,0 +1,22 @@
+.navbar{
+    transition: background-color 0.3s ease;
+}
+
+.navbar:hover{
+    background-color: #343a40;
+}
+
+.navbar-nav{
+    display: flex;
+    justify-content: center;
+    width: 100%;
+}
+
+.nav-link{
+    color: #ffffff;
+    transition: color 0.3s ease;
+}
+
+.nav-link:hover{
+    color: #ffc107;
+}
